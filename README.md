@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **HawaSC/HawaSC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: TEAMS!!
 - 😄 Pronouns: Her
 - ⚡ Fun fact: A computer is as smart as a pen. 
--->
+
 
